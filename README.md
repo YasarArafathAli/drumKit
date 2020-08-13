@@ -1,3 +1,1 @@
-# drumKit
-
-https://yasararafathali.github.io/drumKit/
+# [drumKit](https://yasararafathali.github.io/drumKit/)
